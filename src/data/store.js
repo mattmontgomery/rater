@@ -1,5 +1,4 @@
 var _ = require('lodash');
-
 var DataStore = function(type){
     this.type = type;
     this.data = [];
