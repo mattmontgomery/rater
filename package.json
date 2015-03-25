@@ -1,4 +1,17 @@
 {
-    "description": "A tool to rate collections of things",
-    "repository": "https://github.com/mattmontgomery/rater"
+  "description": "A tool to rate collections of things",
+  "repository": "https://github.com/mattmontgomery/rater",
+  "dependencies": {
+    "bluebird": "^2.9.14",
+    "dotenv": "^1.0.0",
+    "lodash": "^3.6.0",
+    "minimist": "^1.1.1",
+    "redis": "^0.12.1",
+    "require-dir": "^0.3.0",
+    "supervisor": "^0.6.0",
+    "morgan": "^1.5.2",
+    "body-parser": "^1.12.2",
+    "express": "^4.12.3",
+    "gulp": "^3.8.11"
+  }
 }
